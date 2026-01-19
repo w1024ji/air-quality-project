@@ -69,3 +69,8 @@ The dashboard features horizontal bar charts for optimal readability of Seoul's 
 - [ ] Add geospatial mapping (Mapbox/Folium) for Seoul air quality.
 - [ ] Implement incremental loading logic for database optimization.
 - [ ] Create a weekly statistical report using SQL window functions.
+
+![Dashboard Preview](./images/airflow.png)
+![Dashboard Preview](./images/detail_table.png)
+![Dashboard Preview](./images/three_graphs.png)
+![Dashboard Preview](./images/psql.png)
